@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\c-sharp-projects\\Arrays\\ArrayOfUsers\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{87C8BD81-D05B-4428-BD9B-B0D38387DEDD}|ArrayOfUsers.csproj|c:\\users\\user\\desktop\\c-sharp-projects\\arrays\\arrayofusers\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87C8BD81-D05B-4428-BD9B-B0D38387DEDD}|ArrayOfUsers.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87C8BD81-D05B-4428-BD9B-B0D38387DEDD}|ArrayOfUsers.csproj|c:\\users\\user\\desktop\\c-sharp-projects\\arrays\\arrayofusers\\actions\\validate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87C8BD81-D05B-4428-BD9B-B0D38387DEDD}|ArrayOfUsers.csproj|solutionrelative:actions\\validate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{87C8BD81-D05B-4428-BD9B-B0D38387DEDD}|ArrayOfUsers.csproj|c:\\users\\user\\desktop\\c-sharp-projects\\arrays\\arrayofusers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87C8BD81-D05B-4428-BD9B-B0D38387DEDD}|ArrayOfUsers.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87C8BD81-D05B-4428-BD9B-B0D38387DEDD}|ArrayOfUsers.csproj|c:\\users\\user\\desktop\\c-sharp-projects\\arrays\\arrayofusers\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87C8BD81-D05B-4428-BD9B-B0D38387DEDD}|ArrayOfUsers.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87C8BD81-D05B-4428-BD9B-B0D38387DEDD}|ArrayOfUsers.csproj|c:\\users\\user\\desktop\\c-sharp-projects\\arrays\\arrayofusers\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87C8BD81-D05B-4428-BD9B-B0D38387DEDD}|ArrayOfUsers.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Menu.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\c-sharp-projects\\Arrays\\ArrayOfUsers\\Menu.cs",
-              "RelativeDocumentMoniker": "Menu.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\c-sharp-projects\\Arrays\\ArrayOfUsers\\Menu.cs",
-              "RelativeToolTip": "Menu.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Validate.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\c-sharp-projects\\Arrays\\ArrayOfUsers\\Actions\\Validate.cs",
+              "RelativeDocumentMoniker": "Actions\\Validate.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\c-sharp-projects\\Arrays\\ArrayOfUsers\\Actions\\Validate.cs",
+              "RelativeToolTip": "Actions\\Validate.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwCoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T19:57:52.095Z",
+              "WhenOpened": "2024-05-09T21:17:13.682Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\c-sharp-projects\\Arrays\\ArrayOfUsers\\User.cs",
-              "RelativeDocumentMoniker": "User.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\c-sharp-projects\\Arrays\\ArrayOfUsers\\User.cs",
-              "RelativeToolTip": "User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAaAAAA",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\c-sharp-projects\\Arrays\\ArrayOfUsers\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\c-sharp-projects\\Arrays\\ArrayOfUsers\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-08T19:46:47.791Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\c-sharp-projects\\Arrays\\ArrayOfUsers\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\c-sharp-projects\\Arrays\\ArrayOfUsers\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAD0AAAAAAAAAAAAQwGcAAAABAAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwDwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-08T19:42:04.748Z",
               "EditorCaption": ""

@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ArrayOfUsers
+namespace ArrayOfUsers.Models
 {
     public class User
     {

@@ -1,6 +1,5 @@
 ﻿using System;
-
-using ArrayOfUsers;
+using ArrayOfUsers.Models;
 
 class Program
 {
