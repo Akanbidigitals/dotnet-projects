@@ -14,9 +14,9 @@ namespace SpaceCamelWords.Action
 
             StringBuilder sb = new StringBuilder();
 
-            //Capitalize first character
+            //Capitalize get first character
             char firstChar = input[0];
-            //Append capitalized first character
+            //Append first character
             sb.Append(firstChar);
 
             //loop through the string input
