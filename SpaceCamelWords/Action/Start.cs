@@ -14,13 +14,10 @@ namespace SpaceCamelWords.Action
 
             StringBuilder sb = new StringBuilder();
 
-            //Capitalize get first character
-            char firstChar = input[0];
-            //Append first character
-            sb.Append(firstChar);
+           
 
             //loop through the string input
-            for(int i = 1; i < input.Length; i++)
+            for(int i = 0; i < input.Length; i++)
             {
                 //Assign c to each of the character in the string
                 char c = input[i];
@@ -28,7 +25,7 @@ namespace SpaceCamelWords.Action
                 //Check for uppercase in the character
                 if(char.IsUpper(c))
                 {
-                    //Append te character with capital letter with space 
+                    //Append te character with capital letter with space  
                     sb.Append(' ');
                 }
                 //Append all the iputs in the string builder
